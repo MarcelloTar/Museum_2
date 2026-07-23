@@ -12,7 +12,7 @@ Check font styles. Use [Playfair Display](https://fonts.google.com/specimen/Play
 1. Implement `Актуальтні виставки` block.
 1. Implement `Найближчі події` block.
 1. Implement `Сплануйте візит до музею` block.
-1. Implement `Новини` block with the three cards.
+1. Implement `Новини` block with the two cards.
 1. Implement `Підпишіться на дайджест` block.
 1. Implement footer.
 

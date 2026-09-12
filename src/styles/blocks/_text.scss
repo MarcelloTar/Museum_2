@@ -33,5 +33,9 @@
     &:hover {
       color: $color-text-hover;
     }
+
+    &:active {
+      color: $color-text-white;
+    }
   }
 }
